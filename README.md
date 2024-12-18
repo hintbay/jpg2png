@@ -2,6 +2,7 @@
 Looking for a quick and easy way to convert your **JPG images to PNG?** You’re in the right place!
 **Convert JPG to PNG** instantly with just one click—fast, simple, and hassle-free.
 
+<img src="Jpg2Png - jpg to png converter.png" alt="jpg to png converter"/>
 
 
 ## Try our Free online PNG Converter
